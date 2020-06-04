@@ -1,4 +1,4 @@
->>python code.py
+python code.py
 
 
 Pravin Pandit
