@@ -1,4 +1,4 @@
-python code.py
+run code using this--> python code.py
 
 
 Pravin Pandit
